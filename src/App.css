@@ -1,0 +1,100 @@
+/* App.css */
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  background-color: #f8f9fa; /* Light gray background */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.heading {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #333; /* Dark gray text color */
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc; /* Increase border thickness */
+  border-radius: 15px; /* Rounded border */
+  outline: none; /* Remove outline */
+}
+
+.search-button, .clear-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-left: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.search-button:hover, .clear-button:hover {
+  background-color: #0056b3;
+}
+
+.meal-button {
+  padding: 5px 15px;
+  font-size: 12px;
+  margin-left: 10px;
+  background-color: #585858;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.meal-button:hover {
+  background-color: #000000;
+}
+
+.results {
+  text-align: left;
+}
+
+.results-list {
+  list-style: none;
+  padding: 0;
+}
+
+.results-item {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.no-results {
+  margin-top: 20px;
+  color: #dc3545; /* Red text color */
+}
+
+.meal-list{
+  list-style: none;
+  padding: 0;
+}
+.meal-item{
+  margin-bottom: 10px;
+  padding: 5px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.totalCal{
+  font-weight: bold;
+  font-size: 20px;
+}
