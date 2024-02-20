@@ -1,5 +1,27 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Calorie Counter Web Application
+#Description
+The Calorie Counter web application is a tool designed to help users track their daily calorie intake. It allows users to search for food items, add them to their meal list, and view the total calories consumed. The application provides nutritional information for each food item, including portion size and calorie count.
+
+#Features
+Search Functionality: Users can search for food items using keywords.
+Meal Tracking: Users can add food items to their meal list and view a summary of their daily calorie intake.
+Delete Functionality: Users can remove food items from their meal list.
+Responsive Design: The application is responsive and works well on desktop and mobile devices.
+
+#Technologies Used
+React.js: JavaScript library for building user interfaces.
+HTML/CSS: Markup and styling for the application.
+#Data Source:
+JSON file: Used to store nutritional information for food items.
+
+#Usage
+Enter a food item in the search bar and click "Search" to find nutritional information.
+Click "Add" next to a food item to add it to your meal list.
+Click "Delete" next to a food item in your meal list to remove it.
+Repeat the process to track multiple food items and view your total calorie intake.
+
 ## Available Scripts
 
 In the project directory, you can run:
