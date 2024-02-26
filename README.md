@@ -27,6 +27,9 @@ Click "Add" next to a food item to add it to your meal list.
 Click "Delete" next to a food item in your meal list to remove it.
 Repeat the process to track multiple food items and view your total calorie intake.
 
+![project5](https://github.com/amink21/Calorie_Counter/assets/118404986/00545e0d-f961-4df0-92ff-768cb4c69e2e)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
